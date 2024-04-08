@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "mssql3": {
+      "type": "mssql",
+      "connectionId": "Development",
+      "suggestion": "true",
+      "ignored": "true"
+    }
+  }
+}
